@@ -1,0 +1,43 @@
+@media screen and (max-width: 1200px) {
+
+	#about_desc {
+	margin-left: 115px;
+	overflow: hidden;
+	width: 38%;
+}
+
+
+	#about_desc h2
+	{
+		font-size: 20px;
+	}
+
+	#about_desc p
+	{
+		font-size: 12px;
+	}
+}
+
+@media screen and (max-width: 1040px) {
+
+	#about_img
+	{
+		width: 100%
+	}
+	#about_desc
+	{
+		width: 100%;
+		margin-left: 0px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.B_CUMB {
+	    padding-left: 0px;
+	}
+
+	#wellfix
+	{
+		min-height: 100px;
+		width: 100%;
+	}
+}
